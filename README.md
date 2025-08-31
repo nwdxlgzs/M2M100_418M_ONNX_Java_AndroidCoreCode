@@ -1,5 +1,7 @@
 Do something like what Optimum does, but for ONNX on Android
 
+# [AI-Wiki](https://deepwiki.com/nwdxlgzs/M2M100_418M_ONNX_Java_AndroidCoreCode)
+
 # Models(encoder_model.onnx+decoder_model_merged.onnx)
 
 ## M2M100
